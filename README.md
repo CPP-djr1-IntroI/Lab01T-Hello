@@ -8,8 +8,8 @@
 
 If you are here, you now have successfully created an account on GitHub and are ready to complete this lab.
 
-In VSC, clone Lab01 solution using the assignment invitation URL. The video on The C++ Tutorials walks you through
-the cloning process. When you run the program you will see the following in an output window:
+In VSC, clone Lab01 solution by following the example from The C++ Tutorials - Developer Tools. After
+successfully cloning the solution, run the program and you will see the following in an output window:
 
 <pre>
 Hello GitHub
